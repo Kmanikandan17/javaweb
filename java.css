@@ -1,0 +1,42 @@
+body{
+    background-image:url(https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?size=626&ext=jpg&ga=GA1.2.969162241.1665083988);
+    background-repeat: no-repeat;
+    background-size: 1770px;
+}
+.box{
+    background-color: white;
+    height: 250px;
+    width:1270px;
+    margin-top: 80px;
+
+}
+.move{
+    margin-left: 20px;
+    padding-top:10px;
+    
+}
+.move1{
+    margin-left: 80px;
+    margin-top: -20px
+}
+.box1{
+    margin-left: 350px;
+    margin-top: -250px;
+
+}
+.box2{
+    margin-left: 960px;
+    margin-top: -250px;
+    padding-top:15px;
+}
+.box3{
+    margin-left: 1080px;
+    margin-top: -20px;
+}
+.box4{
+    margin-left: 920px;
+}
+p{
+    padding: 1px;
+    margin: 0px;
+}
